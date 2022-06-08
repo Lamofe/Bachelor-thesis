@@ -1,7 +1,7 @@
 # Bachelor-thesis
 The result of piepline
 
-The result of the photometry pipeline：
+The result of the photometry pipeline：\n
 a) gband_result.7z     a compressed PDF file containing 225 pages
                        each page contains the g band result plots of one galaxy including original image, mask, clean data, curve of growth, background fluctuation and model flux fitting
 b) rband_result.7z     a compressed PDF file containing 225 pages
